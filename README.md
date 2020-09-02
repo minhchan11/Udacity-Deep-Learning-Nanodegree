@@ -1,6 +1,5 @@
 
 # Udacity Deep Learning Nanodegree
-----
 
 This is the repository for all my projects that I did during the the Udacity Deep Learning Nanodegree. I was also one of the Bertelmann's scholarship recipients in 2020. 
 
@@ -20,6 +19,7 @@ This is the repository for all my projects that I did during the the Udacity Dee
 
  **Nanodegree Link:**
 > https://www.udacity.com/course/deep-learning-nanodegree--nd101
+
 > https://confirm.udacity.com/7DSAZPCG
 
 
